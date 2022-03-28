@@ -23,10 +23,10 @@
 6. you should see the program output in the terminal 
 	![image](images/image_15.png)
 
-7. hello-world-java also has a Maven pom file and a HelloMaven.java file in its source tree. You can build hello-world as a Maven project by typing "mvn package" in the terminal 
+7. hello-world-java also has a Maven pom file and a HelloMaven.java file in its source tree. You can build hello-world as a Maven project by typing `mvn package` in the terminal 
 	![image](images/image_16.png)
 
 8. run HelloMaven by typing:
-	java -cp target/hello-world-java-1.0-SNAPSHOT.jar src.main.java.HelloMaven 
+	`java -cp target/hello-world-java-1.0-SNAPSHOT.jar src.main.java.HelloMaven `
 
 	![image](images/image_17.png)
