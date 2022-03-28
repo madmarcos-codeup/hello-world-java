@@ -29,4 +29,4 @@
 8. run HelloMaven by typing:
 	`java -cp target/hello-world-java-1.0-SNAPSHOT.jar HelloMaven `
 
-	![image](images/image_17.png)
+	![image](images/image_18.png)
